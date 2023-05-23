@@ -4,7 +4,8 @@
 .DS_Store
 .~lock.*
 *.py[cod]
-*.sqlite3
+
 __pycache__/
-/venv/
+
+/poetry.lock
 /.venv/

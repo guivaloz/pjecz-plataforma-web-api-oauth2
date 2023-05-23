@@ -2,19 +2,20 @@
 .directory
 .env
 .gcloudignore
+.git
 .github
 .gitignore
+.venv
+.vscode
 .DS_Store
-.~lock.*
 
+*.csv
 *.py[cod]
-*.egg-info/
-*.log
 *.sqlite3
-*.sqlite3-journal
-*.session.sql
+*.xlsx
 
 __pycache__/
+
 /.git
 /.venv
 /.vscode
@@ -23,5 +24,3 @@ __pycache__/
 /rest-client
 /setup.py
 /tests
-/venv
-/.venv
